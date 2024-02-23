@@ -1,24 +1,5 @@
 List of Colors used
-Jade 
-Aqua 
-Blue
-Indigo
-Brown
-Bronze
-Coffee
-Mocha
-Yellow
-Red
-Mahogany
-Violet
-Pink
-Purple 
-Raspberry
-Green
-Orange
-Orchid 
-Amaranth 
-Iris
+Jade, Aqua, Blue, Indigo, Brown, Bronze, Coffee, Mocha, Yellow, Red, Mahogany, Violet, Pink, Purple , Raspberry, Green, Orange, Orchid, Amaranth, Iris
 
 Setup
 1. Install Apache for local testing (I used XAMPP apache for my development)
