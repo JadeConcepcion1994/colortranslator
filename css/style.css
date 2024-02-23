@@ -1,0 +1,15 @@
+.container{
+    margin-top: 20px;
+}
+.btn-primary{
+    margin-top: 20px;
+}
+#output{
+    border-radius: 10px;
+    color:white;
+    padding: 7px;
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+}
