@@ -8,8 +8,8 @@ $(document).ready(function(){
         }else{
             hexacolor();
         }
-        
     });
+    
     //on enter
     $('#color').keypress(function (e) {
         var key = e.which;
@@ -48,6 +48,4 @@ $(document).ready(function(){
     
         });
     }
-   
-
 });

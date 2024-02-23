@@ -1,19 +1,14 @@
 <?php 
 include_once "colors.php";
 
-
-
-
-
 if($_SERVER['REQUEST_METHOD'] === 'POST'){
-
     switch ($_POST['action']){
-
         case 'searchColor':
             $color = strtolower($_POST['color']);
 
-            if(in_array($color, $colors))
+            if(in_array($color, $colors))//check if text is in array
             {
+                //conditions for each color and its value
                 if($color == "jade"){
                     echo $jade;
                 }
@@ -78,8 +73,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
             }else{
                 echo "Color not found";
             }
-
-
         break;
 
     }
