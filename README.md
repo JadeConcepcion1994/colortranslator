@@ -2,7 +2,7 @@ List of Colors used
 Jade, Aqua, Blue, Indigo, Brown, Bronze, Coffee, Mocha, Yellow, Red, Mahogany, Violet, Pink, Purple , Raspberry, Green, Orange, Orchid, Amaranth, Iris
 
 Setup
-1. Install Apache for local testing (I used XAMPP apache for my development)
+1. Install Apache for local testing (I used XAMPP apache for my web development)
 2. Add the colortranslator folder in xampp/htdocs directory
 3. Start Apache 
 4. Open localhost/colorpicker in browser
